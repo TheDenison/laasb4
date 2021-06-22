@@ -1,0 +1,5 @@
+﻿  Common.cpp
+C:\Users\mrcan\source\repos\lab4\lab4\Common.cpp(15,18): error C2600: Common::Common: нельзя определить специальную функцию-член, созданную компилятором (сначала необходимо объявить ее в классе)
+C:\Users\mrcan\source\repos\lab4\lab4\Common.cpp(80,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  friends.cpp
+  Создание кода...
